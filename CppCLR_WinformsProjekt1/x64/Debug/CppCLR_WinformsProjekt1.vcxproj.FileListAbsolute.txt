@@ -1,0 +1,9 @@
+C:\Users\adamp\OneDrive\Pulpit\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxprojAssemblyReference.cache
+C:\Users\adamp\OneDrive\Pulpit\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.Form1.resources
+C:\Users\adamp\OneDrive\Pulpit\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
+D:\Studia\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxprojAssemblyReference.cache
+D:\Studia\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.Form1.resources
+D:\Studia\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxprojAssemblyReference.cache
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.Form1.resources
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache

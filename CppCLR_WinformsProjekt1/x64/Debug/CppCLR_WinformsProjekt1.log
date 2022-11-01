@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(428,16): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(559,16): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(688,16): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(816,16): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(896,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(1076,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(1096,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(1116,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(1136,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(1156,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(1176,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(1196,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Form1.cpp
+  Generowanie kodu...
+D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\CppCLR_WinformsProjekt1\Form1.h(1058): warning C4715: "CppCLRWinformsProjekt::Form1::wyborKoloru”: niewszystkie ścieżki kodu zwracają wartość
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  CppCLR_WinformsProjekt1.vcxproj -> D:\Studia\Rok 1\Programowanie\Projekt + dokumentacja Adam Paździerz grupa 3F\Projekt\Milionerzy\x64\Debug\CppCLR_WinformsProjekt1.exe
